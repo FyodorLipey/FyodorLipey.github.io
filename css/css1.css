@@ -1,0 +1,88 @@
+#Welcome {
+font-size: 4rem;
+color: #AD1A3D;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 25px;
+font-style: italic;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-bottom: 0;
+}
+#subWelcome {
+color:#3943B7 ;
+text-align: center;
+font-family:fantasy;
+margin-top: 0;
+}
+footer{
+text-align: center;  
+padding-top: 250px; 
+padding-bottom: 0; 
+margin-top: 50px;
+}
+img{
+background-color:#F8F4A6;
+height: 150; 
+width: 100;   
+}
+body{
+background-color:#F8F4A6;
+}
+#intro{
+font-family:fantasy;
+font-size: 2rem;
+text-align:justify;
+font-weight: bold;
+padding: 25px;
+text-align: center;
+color:#3943B7 ;
+}
+.menu {
+font-family:fantasy;
+display: grid;
+grid-template-columns: repeat(3, 2fr);
+align-items: center;
+text-align: center;
+border-radius: 3rem;  
+}
+.menu > div{
+margin: 2rem;
+padding: 1rem 1rem;   
+}
+h3{
+padding-bottom: 0;
+margin-bottom: 0;   
+}
+img{
+padding-top: 0;
+margin-top: 0;      
+}
+.bear{
+height: 700;
+width: 650;
+margin: auto;
+display: block;
+border-radius: 55%;
+padding-top: 3rem;
+border:#AD1A3D;
+border-width: 2px;
+
+}
+a:link {
+color: #EF6F6C;   
+text-decoration: none;
+font-family:Monospace;
+font-size: 2rem;
+font-weight: bold;
+border: #3943B7;
+border-width: 0.5rem;
+}
+a:hover{
+color: #AD1A3D;    
+}
+.headers{
+ text-align: center; 
+ padding: 10rem;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+color:#AD1A3D;
+}
